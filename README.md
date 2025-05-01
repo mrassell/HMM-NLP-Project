@@ -57,6 +57,7 @@ This will:
 
 - **Sentiment Over Time**: Shows how emotional sentiment changes across entries
 - **Entry Length Distribution**: Displays the distribution of entry lengths
+- **Hidden Markov Model State Transitions**: Predicts writing style patterns over time 
 
 ## Dependencies
 
