@@ -1,0 +1,9 @@
+numpy
+textblob
+nltk
+matplotlib
+seaborn
+hmmlearn
+pomegranate
+scikit-learn
+pandas 
