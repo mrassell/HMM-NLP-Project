@@ -1,10 +1,10 @@
-# Diary Sentiment Analysis with HMM
+# Journal Sentiment Analysis with HMM
 
-A Python project that analyzes diary entries using Hidden Markov Models (HMM) and sentiment analysis to track emotional patterns over time.
+A Python project that analyzes journal entries using Hidden Markov Models (HMM) and sentiment analysis to track emotional patterns over time.
 
 ## Features
 
-- Sentiment analysis of diary entries using VADER
+- Sentiment analysis of journal entries using VADER
 - Custom Hidden Markov Model implementation from scratch
 - Visualization of sentiment trends over time
 - Analysis of entry lengths and writing patterns
@@ -14,7 +14,7 @@ A Python project that analyzes diary entries using Hidden Markov Models (HMM) an
 ```
 .
 ├── src/
-│   ├── data_loader.py      # Loads diary entries from JSON
+│   ├── data_loader.py      # Loads journal entries from JSON
 │   ├── hmm_modeler.py      # Custom HMM implementation
 │   ├── preprocessor.py     # Text preprocessing utilities
 │   ├── sentiment_analyzer.py# Sentiment analysis using VADER
@@ -22,7 +22,7 @@ A Python project that analyzes diary entries using Hidden Markov Models (HMM) an
 ├── outputs/
 │   ├── plots/             # Generated visualizations
 │   └── processed_entries.json
-├── entries.json           # Input diary entries
+├── entries.json           # Input journal entries
 └── requirements.txt       # Project dependencies
 ```
 
@@ -47,7 +47,7 @@ python main.py
 ```
 
 This will:
-1. Load and process diary entries
+1. Load and process journal entries
 2. Perform sentiment analysis
 3. Train HMM model
 4. Generate visualizations
