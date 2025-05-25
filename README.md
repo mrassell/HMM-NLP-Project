@@ -7,7 +7,7 @@ A Python project that analyzes journal entries using Hidden Markov Models (HMM) 
 - Sentiment analysis of journal entries using VADER
 - Custom Hidden Markov Model implementation from scratch
 - Visualization of sentiment trends over time
-- Analysis of entry lengths and writing patterns
+- Analysis of entry lengths and writing pattern
 
 ## Project Structure
 
